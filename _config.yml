@@ -39,6 +39,10 @@ features                                  :
   - title                                 : Sync
     description                           : Add information on one device, automatically sync on all your other devices.
     fontawesome_icon_name                 : sync
+
+  - title                                 : Automatic Logging
+    description                           : Use your phone's internal GPS to track your flights.
+    fontawesome_icon_name                 : compass
     
   - title                                 : Offline
     description                           : Add your logbook entries even in airplane mode.
@@ -47,6 +51,14 @@ features                                  :
   - title                                 : Night Time
     description                           : Automatically calculate night flying time.
     fontawesome_icon_name                 : moon-o
+
+  - title                                 : Easy Exports
+    description                           : Take ownership of your data. 
+    fontawesome_icon_name                 : file-excel-o
+
+  - title                                 : Route Map
+    description                           : See your flown routes.
+    fontawesome_icon_name                 : map-o
 
 
 
