@@ -50,15 +50,15 @@ features                                  :
 
   - title                                 : Night Time
     description                           : Automatically calculate night flying time.
-    fontawesome_icon_name                 : moon-o
+    fontawesome_icon_name                 : cloud
 
   - title                                 : Easy Exports
     description                           : Take ownership of your data. 
-    fontawesome_icon_name                 : file-excel-o
+    fontawesome_icon_name                 : file
 
   - title                                 : Route Map
     description                           : See your flown routes.
-    fontawesome_icon_name                 : map-o
+    fontawesome_icon_name                 : map
 
 
 
